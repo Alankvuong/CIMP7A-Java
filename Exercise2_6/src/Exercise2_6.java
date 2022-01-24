@@ -29,6 +29,11 @@ public class Exercise2_6 {
 
         System.out.print("Enter an integer between 0 and 1000: ");
         num = input.nextInt();          // Gets input from keyboard
+
+        while (num < 0 || num >= 1000) {
+            System.out.print("Enter an integer between 0 and 1000: ");
+            num = input.nextInt();          // Gets input from keyboard
+        }
         tempNum = num;                  // Copies value of num to tempNum var
 
         // while loop to add sum of digits
