@@ -10,7 +10,7 @@
  * BC is a substring of ABCD
  * 
  * @input two strings from Standard Input System.in 
- * @logic Compare whether the second string is a substring of the first string
+ * @logic Compare whether the second string is a substring of the first h/
  * @output Whether or not the second string is a substring of the first stringOH 
  * @author Alan Vuong
  */
