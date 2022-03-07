@@ -24,7 +24,6 @@ hs_err_pid*
 
 # VSCode Files 
 *.json
-.vscode/
 
 # Markdown files
 *.md
